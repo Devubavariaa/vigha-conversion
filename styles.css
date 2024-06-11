@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #f0f8ff;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin: 20px auto;
+    display: inline-block;
+    text-align: left;
+}
+
+label, input, select, button {
+    margin: 10px;
+    padding: 5px;
+    font-size: 1em;
+}
+
+input, select {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button {
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+}
+
+.large-bold {
+    font-size: 2em;
+    font-weight: bold;
+    color: #006400;
+}
